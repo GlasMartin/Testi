@@ -1,0 +1,44 @@
+img {
+    border-radius: 50px;
+    width: 500px; max-width: 100%;
+    align
+    
+}
+
+#eka {
+    background-color: rgb(218, 172, 117);
+}
+
+#toka {
+    background-color: rgb(234, 203, 164);
+}
+
+#kolmas {
+    background-color: blanchedalmond;
+}
+
+body {
+    background-color: rgb(181, 131, 55);
+    margin: auto; max-width: 900px;
+}
+
+.fontti {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+P {
+    font-family: arial;
+    font-size: large;
+
+}
+
+li {
+    font-style: italic;
+}
+
+h1 {
+   text-align: center; 
+   color: rgb(255, 183, 0);
+   font-size: 200px;
+}
+
